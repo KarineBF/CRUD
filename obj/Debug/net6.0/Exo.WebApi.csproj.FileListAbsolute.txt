@@ -1345,7 +1345,6 @@ C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\Exo.WebAp
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\CLIENTE\Downloads\Nova pasta (2)\Exo.WebApi2\obj\Debug\net6.0\staticwebassets\msbuild.Exo.WebApi.Microsoft.AspNetCore.StaticWebAssets.props

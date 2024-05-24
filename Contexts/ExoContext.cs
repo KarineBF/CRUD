@@ -22,6 +22,5 @@ namespace Exo.WebApi.Contexts
       }
     }
     public DbSet<Projeto> Projetos { get; set; }
-    public string Server { get; private set; }
   }
 }
